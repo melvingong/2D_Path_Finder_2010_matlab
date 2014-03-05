@@ -9,7 +9,9 @@ The "Path_Finder" function in Path_Finder.m starts a GUI that allows a user to s
 including obstacles, way-points, speed/turning angle, vision and or other limitations.  
 
 The program  then simulate a simple vehicle moving around all the obstacles to get to desired destinations [via 
-way-points, if set].  
+way-points, if set].  The path is calculated based on vision range and geometric shortest possible distance 
+considering turning angle, safe distance etc. A few useful velocity, acceleration and turning angle statistics 
+will be generated.
 
 For more details on how to use the GUI, please see the dropbox link below for detailed documentation.
 
