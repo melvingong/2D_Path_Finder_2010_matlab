@@ -1,4 +1,4 @@
-Path_Finder_2010_matlab
+2D_Path_Finder_2010_matlab
 =======================
 
 2D Path Finder 2010 Matlab
